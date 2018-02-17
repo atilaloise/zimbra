@@ -2,7 +2,7 @@
 #Authors: Atila Aloise de Almeida
 #		  Claudio Castelo
 #e-mail: atilaloise@gmail.com
-#		 castelo@castelonet.com.br
+#		 claudio@castelonet.com.br
 #
 #Descrição: Este script armazena os ¨paths¨ da instalação do zimbra, a data do dia anterior, o diretório de armazenamento dos backups,
 # a data de hoje, a data de ontem, a ¨query¨ a ser passada na ¨restURL¨ e o tempo de retençao dos backups.
