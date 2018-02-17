@@ -2,9 +2,10 @@
 ########################################################################
 #### Apaga assinaturas importadas pelo script "importa_assinatura.sh"###
 ########################################################################
-#AUTOR: Atila Aloise de almeida
-#E-MAIL: atila.aloise@tce.ro.gov.br
-#VERSÃO; 1.0
+#Authors: Atila Aloise de Almeida
+#		  
+#e-mail: atilaloise@gmail.com
+#
 #
 #REQUISITOS: Estar no servidor novo| Locales pt_BR.UTF-8 configurados no
 #.bash_profile do usuario zimbra
