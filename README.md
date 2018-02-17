@@ -1,6 +1,5 @@
-#################################################
 #		SHELL SCRIPT PACK FOR USE IN ZIMBRA 	#
-#################################################
+
 
 Here are some scripts I use to manage zimbra.
 
@@ -39,9 +38,9 @@ In the folder ¨Install¨ are the scripts that I use in new installations ¨from
 		* restore.sh - restores users' mailboxes from a full backup.
 
 
-#################################################
+
 #	PACK DE SHELL SCRIPTS PARA USO NO ZIMBRA 	#
-#################################################
+
 
 Aqui estão alguns scripts que uso para administrar o zimbra.
 
