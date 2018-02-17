@@ -25,7 +25,7 @@
 ZHOME=/opt/zimbra       #Zimbra installation Path ||| caminho da instalaçao do zimbra
 ZBACKUP=/opt/zimbra/backup 		#Zimbra backup folder Path ||| 	Pasta onde devem ser armazenados os backups
 ZCONFD=$ZHOME/conf 				#Zimbra conf Path 		||| Caminho para pasta de confs do zimbra
-ZDUMPDIR=$ZBACKUP/mailbox/$DATE # Path to save backups named by date ||| Pasta de backup nomeada por data
+ZDUMPDIR=$ZBACKUP/mailbox/$YESTERDAY # Path to save backups named by date ||| Pasta de backup nomeada por data
 ZMBOX=/opt/zimbra/bin/zmmailbox 	#Path to zmmailbox binnary  ||| Caminho do binário zmmailbox
 ZMPROV=/opt/zimbra/bin/zmprov 		#Path to zmprov binnary  ||| Caminho do binário zmprov
 TODAY=`date --date='today' +"%m/%d/%Y"` 	# Get today date  ||| Pega data de hoje
