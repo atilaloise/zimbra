@@ -2,9 +2,8 @@
 ###########################################################
 #### Exporta Filtros de e-mail para arquivos individuais###
 ###########################################################
-#AUTOR: Atila Aloise de almeida
-#E-MAIL: atila.aloise@tce.ro.gov.br
-#VERSÃO; 1.0
+#Authors: Atila Aloise de Almeida
+#e-mail: atilaloise@gmail.com
 #
 #REQUISITOS: Estar no servidor que será migrado
 #
